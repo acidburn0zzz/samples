@@ -45,7 +45,7 @@
     "minimatch": "^3.0.4",
     "nightwatch": "^1.7.8",
     "selenium-server": "^3.141.59",
-    "stylelint": "^10.1.0",
+    "stylelint": "^15.10.1",
     "stylelint-config-recommended": "^2.2.0"
   }
 }
